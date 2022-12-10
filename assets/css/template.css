@@ -1,0 +1,19 @@
+.user-panel>.info {
+	position:unset;
+}
+.products_files_area {
+	margin-top:20px;
+}
+.images_area {
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.p_image {
+	width:200px;
+	display:inline-block;
+	margin:10px;
+	text-align:center;
+}
+.p_image img {
+	width:100%;
+}
